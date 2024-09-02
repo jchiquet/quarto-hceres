@@ -1,0 +1,92 @@
+---
+title: "Modèle Quarto de document d'autoévaluation HCERES"
+date: last-modified
+lang: fr
+author: UMR Machine
+bibliography: [references-HAL.bib] # plusieurs fichiers possible
+preface: |
+  | Ce document constitue le rapport d'autoévaluation de l'unité XXX, élaboré dans le cadre de la campagne d'évaluation 2024-2025 de la vague E de l'HCERES. 
+  |
+  | Il est accompagné du dépôt git \url{xxx} permettant de reproduire l'intégralité des analyses et sa compilation, à l'aide des extractions des bases RH et HAL de notre unité (en date du XX 2024).
+  |
+  | Lors de la lecture de ce document, notez que le PDF est navigable. Les liens en rouge et les références bibliographiques pointent sur des pages web ou sur les éléments correspondants de la bibliographie. De plus, les références bibliographiques sont données par type, avec une numérotation propre et une lettre pour préfixe facilitant le repérage (A - article de journal, C - acte de conférence, B - livre, I - chapitre d'ouvrage, T - mémoire de thèse de doctorat ou d'habilitation, S - logiciel et U - prépublication).
+  |
+  | Enfin, nous avons tenté d'adopter quelques règles d'écriture épicène -- ou non genrée --, comme l'utilisation de termes neutres, d'accord de proximité, ou l'énumération alternant féminin et masculin (par exemple, "des chercheuses et des enseignants-chercheurs"). Parfois, nous avons  accordé avec le genre des personnes concernées. Merci de l'indulgence du comité sur ce point.
+format:
+  hceres-pdf: default
+---
+
+<!-- Données, entête et packages additionnels -->
+{{< include 0_entete_data.qmd >}}
+
+# Informations générales pour le contrat en cours
+
+<!-- Identité de l'UMR --> 
+{{< include 1-1_identite_UMR.qmd >}}
+
+<!-- Présentation de l'unité --> 
+{{< include 1-2_presentation.qmd >}}
+
+<!-- Thématiques (par équipe) --> 
+{{< include 1-3_thematiques.qmd >}}
+
+<!-- Profil d'activité --> 
+{{< include 1-4_profil_activites.qmd >}}
+
+<!-- Environnement --> 
+{{< include 1-5_environnement.qmd >}}
+
+<!-- Recommandations --> 
+{{< include 1-6_recommandations.qmd >}}
+
+# Introduction du portfolio
+
+<!-- PORTFOLIO: introduction --> 
+{{< include 2_introduction_portfolio.qmd >}}
+
+# Autoévaluation du bilan
+
+Selon les domaines d'évaluation, l'unité appuie son argumentation sur :
+
+- les données fournies dans le tableur « Données de caractérisation et de production » ;
+- les éléments sélectionnés pour la constitution du portfolio ;
+- l'exposé de ses thématiques scientifiques du paragraphe 3 du chapitre 1 ;
+- des données fournies en annexe, le cas échéant.
+
+Pour les unités pluri-équipes : on commence par décliner les quatre domaines à l'échelle de l'unité puis, pour chacune des équipes, on choisit parmi les domaines les références jugées pertinentes pour l'équipe. S'il n'est ni opportun ni nécessaire d'aborder pour chaque équipe toutes les références, celles relatives à la production, à l'attractivité et à l'inscription dans la société doivent être privilégiées en reprenant cette séquence.
+
+Dans l'éventualité où toutes les références devraient être abordées, on veille à respecter l'ordre de présentation.
+
+## Autoévaluation de l'unité
+
+<!-- Domaine 1 - Profil, ressources et organisation de l'unité --> 
+{{< include 3_autoevaluation_unite_domaine_1.qmd >}}
+
+<!-- Domaine 2 - Attractivité --> 
+{{< include 3_autoevaluation_unite_domaine_2.qmd >}}
+
+<!-- Domaine 3 - Production scientifique --> 
+{{< include 3_autoevaluation_unite_domaine_3.qmd >}}
+
+<!-- Domaine 4 - Inscription des activités de recherche dans la société --> 
+{{< include 3_autoevaluation_unite_domaine_4.qmd >}}
+
+{{< pagebreak >}}
+
+## Autoévaluation des équipes
+
+Pour chacune des équipes, on choisit parmi les domaines les références jugées pertinentes pour l'équipe. S'il n'est ni opportun ni nécessaire d'aborder toutes les références, celles relatives à la production, à l'attractivité et à l'inscription dans la société doivent être privilégiées en reprenant cette séquence.
+
+Dans l'éventualité où toutes les références devraient être abordées, on veille à respecter l'ordre de présentation.
+
+# Trajectoire de l'unité
+
+<!-- Trajectoire Unité --> 
+{{< include 4_trajectoire_unite.qmd >}}
+
+{{< pagebreak >}}
+
+# Annexes {.appendix}
+
+## Organigramme d'unité {.unnumbered}
+

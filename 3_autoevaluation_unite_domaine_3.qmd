@@ -1,0 +1,27 @@
+### Domaine 3. Production scientifique
+
+Ce domaine se décline en trois références qui portent respectivement sur les aspects qualitatifs, quantitatifs et éthiques de la production scientifique, et des résultats des recherches.
+
+#### Référence 1. La production scientifique de l'unité satisfait à des critères de qualité {.unnumbered} 
+
+L'unité analyse sa production scientifique. Elle s'appuie en particulier sur le portfolio et sur la liste de sa production pour montrer en quoi celle-ci repose sur des fondements théoriques et méthodologiques solides, qu'elle est originale, qu'elle présente un apport à la connaissance et qu'elle traduit un positionnement national et international des recherches menées par l'unité. 
+
+**Dans ce paragraphe, les principaux résultats scientifiques de l'unité seront repris du paragraphe « Les thématiques scientifiques et leurs enjeux » du 1er chapitre de ce document. Au cœur de l'approche qualitative de l'évaluation de la recherche de l'unité, ces faits scientifiques marquants (découvertes, inventions, avancées méthodologiques, nouveaux concepts, ruptures, etc.) seront détaillés et ils pourront faire l'objet d'un développement substantiel.**
+
+Les citations dans le document apparissent ainsi : [@aksin;@angenendt].
+
+#### Référence 2. La production scientifique de l'unité est proportionnée à son potentiel de recherche et correctement répartie entre ses personnels {.unnumbered} 
+
+L'unité présente sa stratégie interne de diffusion des connaissances. Elle analyse les éventuels déséquilibres de production entre ses différentes équipes. Elle décrit et analyse tout particulièrement la production des personnels chercheurs débutants. Elle mentionne les dispositifs mis en œuvre pour accompagner les personnels les moins actifs ou pour accompagner, sur ce point, les personnels chercheurs de niveaux doctorat et post-doctorat. Elle souligne l'apport des personnels d'appui à la recherche.
+
+#### Référence 3. La production scientifique de l'unité respecte les principes de l'intégrité scientifique, de l'éthique et de la science ouverte. Elle est conforme aux directives applicables dans ce domaine {.unnumbered} 
+
+L'unité précise les moyens mis en œuvre pour garantir la traçabilité et, le cas échéant, la reproductibilité de ses résultats (carnets de laboratoires, logiciels anti-plagiat, procédures internes d'examen – dont de relecture – par les pairs, procédures d'archivage des données et des codes sources, etc.). Elle décrit les moyens par lesquels elle accompagne ses personnels dans le choix de supports appropriés de diffusion (pour éviter, par exemple, les conférences et revues dites « prédatrices ») et pour une juste prise en compte des contributions (en particulier dans les co-signatures).
+
+L'unité indique les dispositions mises en place pour que sa production scientifique soit le résultat de recherches respectant la personne humaine, la vie animale. 
+
+L'unité définit sa politique en matière de science ouverte.
+
+#### Synthèse de l'autoévaluation {.unnumbered} 
+
+L'unité évalue ses forces et faiblesses au regard des références de ce domaine d'évaluation.

@@ -1,0 +1,22 @@
+## Core latex/pdflatex auxiliary files:
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+*.fdb_latexmk
+
+*.bbl
+
+/.luarc.json
+logo_hceres.png
+page_garde_hceres.pdf
+dae-hceres.pdf
+ 

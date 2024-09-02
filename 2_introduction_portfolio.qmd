@@ -1,0 +1,42 @@
+Le portfolio est le support de l'évaluation qualitative des activités de l'unité. Il comprend un ensemble d'éléments que l'unité juge représentatifs de ses activités, de ses missions et de son environnement de recherche.
+
+**Le portfolio fait l'objet d'une introduction qui décrit sa composition et qui justifie les choix opérés dans sa composition.** L'exposé veille à installer un dialogue entre la définition du profil d'activités et les éléments sélectionnés pour la constitution du portfolio. Cette introduction n'excède pas la limite de 3 500 caractères (espaces comprises) pour une unité mono-équipe et 7 000 caractères (espaces comprises) pour une unité pluri-équipe. Cette introduction fait l'objet de ce chapitre. 
+
+**Le portfolio en lui-même (l'ensemble des documents sélectionnés par l'unité) fera l'objet d'un dossier zip contenant les éléments le constituant.** Ce fichier zip sera déposé en annexe. Si ce fichier zip devait excéder 50 Mo, l'unité est invitée à créer un lien de téléchargement et à l'indiquer à la fin de ce chapitre 2.
+
+**Le nombre total d'éléments du portfolio doit tenir compte de la taille et de la structuration de l'unité de recherche. Il doit également rester dans une limite raisonnable pour que le comité d'experts puisse s'en saisir de façon approfondie.** Nous proposons, à titre indicatif, le cadre suivant :
+
+Pour une unité mono-équipe, il s'élève à :
+
+- unité de petite taille (moins de 19 permanents) : cinq éléments dont au minimum deux publications ;
+- unité de taille moyenne (entre 20 et 39 permanents) : huit éléments dont au minimum quatre publications ;
+- unité de grande taille (40 personnes ou plus) : onze éléments dont au minimum cinq publications ;
+
+Pour une unité pluri-équipe, il s'élève par équipe à :
+
+- équipe de très grande taille (supérieure à 20 permanents) : maximum sept éléments dont au minimum trois publications ;
+- équipe de grande taille (entre 10 et 19 permanents) : maximum cinq éléments dont au minimum deux publications ;
+- équipe de taille moyenne (entre 5 et 9 permanents) : maximum quatre éléments dont deux publications ;
+- équipe de petite taille (moins de 4 permanents) : maximum trois éléments dont une publication ;
+
+L'unité pourra répartir ces éléments entre des productions relatives à chaque équipe et des productions à l'échelle de l'unité.
+
+Pour les unités de recherche ayant plus de 15 équipes, la dimension du portfolio fera l'objet d'un échange avec le conseiller scientifique en charge de l'unité.
+
+Le portfolio peut rassembler les éléments suivants :
+
+- des productions représentatives du positionnement scientifique de l'unité attestant de sa reconnaissance aux niveaux national, européen et international ;
+- des éléments soulignant l'implication de l'unité dans les activités d'encadrement et de formation témoignant des apports de l'activité scientifique de l'unité à la spécialisation de l'offre de formation de l'établissement ;
+- des éléments présentant des dynamiques d'innovation sociale  ;
+- des éléments illustrant des actions de valorisation, de transfert (coopération avec les collectivités territoriales, aides aux politiques publiques, partenariats public-privé, etc.) et des contributions au développement socio-économique et culturel (contrat de R \& D significatif,  création d'une start-up) ;
+- des activités de dissémination (mise en place d'évènements à destination du grand public, production de documents audio-visuels, podcasts, ouvrages, expertises auprès d'acteurs du monde social, économique, culturel, politique, etc.) ;
+
+Le portfolio peut rassembler les éléments suivants :
+
+- des productions représentatives du positionnement scientifique de l'unité (front de connaissance, positionnement théorique, innovation méthodologique…) attestant notamment de sa reconnaissance aux niveaux national, européen et international (articles, ouvrages, créations artistiques, par exemple) ;
+- des éléments soulignant l'implication de l'unité dans les activités d'encadrement et de formation (initiale ou à destination du monde professionnel) et témoignant des apports de l'activité scientifique de l'unité à la spécialisation de l'offre de formation de l'établissement (implication dans des projets EUR, d'universités européennes ou d'alliances pour l'innovation, conception de formations à destination de secteurs professionnels spécifiques, par exemple) ;
+- des éléments présentant des dynamiques d'innovation sociale (co-production de recherche avec des acteurs non-académiques, collaboration de recherche avec des panels citoyens, par exemple) ;
+- des éléments illustrant des actions de valorisation, de transfert (actions de coopération avec les collectivités territoriales, actions en matière d'aides aux politiques publiques, participation à des actions de repérage technologique et autres partenariats public-privé, etc.) et des contributions au développement socio-économique et culturel (note descriptive sur un contrat de R&D significatif, sur le contexte de création d'une start-up, par exemple) ;
+- des éléments soulignant des activités de dissémination de la recherche (mise en place d'évènements à destination du grand public, production de documents audio-visuels, podcasts, ouvrages, expertises auprès d'acteurs du monde social, économique, culturel, politique, etc.) ;
+- tout autre élément que l'unité jugera pertinent pour apprécier des aspects singuliers de son profil d'activités.
+

@@ -1,0 +1,54 @@
+
+<!-- Mettre ici le code permettant le prétraitement de données en vue de graphes au sein du rapport (R, Python) -->
+
+```{r preliminaires-settings, include = FALSE, echo = FALSE, message=FALSE, warning=FALSE, results='hide'}
+
+knitr::opts_chunk$set(message = FALSE, warning = FALSE)
+
+library(tidyverse)
+library(kableExtra)
+
+miaps_palette <- 
+  function(n) {
+    palette <- colorRampPalette(c("#7DC142", "#00AEAA"))(n)
+    class(palette) <- "palette"
+    attr(palette, "name") <- "mia-ps"
+    palette
+  }
+
+```
+
+```{r preliminaires-rh, include = FALSE, echo = FALSE, message=FALSE, warning=FALSE, results='hide', eval = FALSE}
+library(scales)
+library(viridis)
+theme_set(theme_bw())
+
+baseRH_miaps <- read_tsv("data/Bilan_RH_MIA-PS_0518_2018-2024.tsv") %>%
+  unite(nom, nom, prénom) %>% 
+  mutate(
+    statut =
+           fct_relevel(statut,
+            "Doctorant.e / Post-doc.", "Chercheur.e", "Enseignant.e - Chercheur.e", "Ingénieur.e",  "Informaticien.ne proximité", "Gestionnaire", "Personnels occasionnels"
+          ),
+    corps = fct_relevel(corps,
+            "TR", "SA", "AI", "IE", "IR", "IPEF", "CR", "CPJ", "DR", "MC", "MCC", "PR", "Doc", "Post-doc"
+      ),
+    bourse = case_when(financement %in% c("EDF", "Orange", "Deezer", "Danone", "Sanofi", "ATOS", "Pasteur") ~ 'contrat privé',
+                       financement %in% c("IGN", "ANDRA", "CEA", "Ifremer") ~ 'EPIC/EPA',
+                       financement %in% c("PEPR", "CLAND", "H2020", "ANR", "FUI") ~ 'contrat public',
+                       financement %in% c("Mathnum-EDMH", "DGA", "Digitbio-EDMH", "Mathnum-ANR", "IDEX", "IPEF", "Santé public France", "Paris-Saclay", "SCAC", "DIM", "CNRS", "Ministère", "LMH", "ABIES", "EDMH", "Télécom", "Mathnum-EDMH") ~ 'fonds publics',
+                      .default = NA)
+  ) %>% 
+  mutate(
+    type_contrat = case_when(bourse %in% c("contrat privé", "EPIC/EPA") ~ 'privé',
+                             bourse %in% c("contrat public", "fonds publics") ~ 'public', .default = NA),
+    bourse = fct_relevel(bourse, c("contrat privé", "EPIC/EPA", "contrat public", "fonds publics")),
+    statut = fct_recode(statut, "Doctorant.e, Postdoc" = "Doctorant.e / Post-doc.")
+  )
+
+membres <- baseRH_miaps %>% select(-matricule, -naissance, -ancienneté) %>% 
+  mutate(
+    statut = fct_collapse(statut, 
+      `Appui` = c("Gestionnaire", "Informaticien.ne proximité", "Personnels occasionnels")
+  ))
+```

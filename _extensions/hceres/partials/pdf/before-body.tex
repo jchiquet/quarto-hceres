@@ -1,0 +1,68 @@
+%%% TEMPLATE COLORS
+\definecolor{hceres-red}{HTML}{ed145b}   %% titre 1
+\definecolor{hceres-blue}{HTML}{7030a0}  %% titre 2
+\definecolor{hceres-green}{HTML}{76923c} %% commentaires
+
+%% CALLOUT COLORS
+\colorlet{quarto-callout-color}{hceres-blue}
+\colorlet{quarto-callout-color-body}{hceres-blue}
+\colorlet{quarto-callout-note-color}{hceres-blue}
+\colorlet{quarto-callout-note-color-frame}{hceres-blue}
+
+% \colorlet{quarto-callout-tip-color}{hceres-green}
+% \colorlet{quarto-callout-tip-color-frame}{hceres-green}
+
+% \colorlet{quarto-callout-important-color}{hceres-green}
+% \colorlet{quarto-callout-important-color-frame}{hceres-blue}
+% \colorlet{quarto-callout-warning-color}{hceres-green}
+% \colorlet{quarto-callout-warning-color-frame}{hceres-green}
+\colorlet{quarto-callout-caution-color}{hceres-green}
+\colorlet{quarto-callout-caution-color-frame}{hceres-green}
+
+%%% SECTIONING HEADERS
+\newlength\titleindent
+\setlength\titleindent{1cm}
+
+\titleformat{\chapter}
+    {\fontsize{16}{18}\selectfont\sc\color{hceres-red}}
+    {\llap{\parbox{\titleindent}{\thechapter\hspace{.5ex}-}}}{0em}{}
+\titlespacing*{\chapter} {0pt}{-50pt}{2ex}
+
+\titleformat{\section}
+    {\fontsize{14}{16}\bfseries\color{hceres-blue}}
+    {\llap{\parbox{\titleindent}{\thesection\hspace{.5ex}-}}}{0em}{}
+
+\titleformat{\subsection}[block]
+    {\fontsize{11}{12}\bfseries\color{hceres-blue}}
+    {}{0em}{\hspace*{-1.5\titleindent}}
+
+\titleformat{\subsubsection}[block]
+    {\fontsize{11}{12}\normalfont\color{hceres-blue}}
+    {}{0em}{\hspace*{-\titleindent}}
+
+\titleformat{\paragraph}[runin]
+    {\normalfont\normalsize\color{hceres-blue}}
+    {}{0em}{}
+
+\titleformat{\subparagraph}[runin]
+    {\normalfont\normalsize\color{hceres-blue}}
+    {}{0em}{}
+
+%%% PAGE DE GARDE
+\includepdf[pages={1}]{page_garde_hceres.pdf}
+
+%%% MACROS
+\newenvironment{commentaires}{\color{hceres-green}}{}
+
+%%% Style des Listes  
+\renewcommand{\labelitemi}{\normalfont\bfseries\textendash}
+
+\frontmatter
+
+$if(preface)$
+\chapter*{Préface}
+
+$preface$
+
+\newpage
+$endif$

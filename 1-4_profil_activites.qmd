@@ -1,0 +1,34 @@
+## Profil d’activités liées à la recherche 
+
+La définition du profil permet de caractériser, selon sept grandes catégories (classées ici par ordre alphabétique), l’ensemble des activités conduites par le collectif de recherche.
+
+\bigskip
+
+```{r profil-activites-recherche, echo = FALSE, warning = FALSE}
+## kableExtra is incompatible with caption + Label in Quarto (see, e.g., )
+activites <- bind_cols(
+  activite = c(
+    "Administration et animation de la recherche ${}^\\mathsf{1}$",
+    "Aide aux politiques publiques et expertise technique ${}^\\mathsf{2}$",
+    "Contribution à l’adossement d’enseignements innovants à la recherche ${}^\\mathsf{3}$",
+    "Dissémination de la recherche ${}^\\mathsf{4}$",
+    "Recherche et encadrement de la recherche.",
+    "Valorisation, transfert, innovation.",
+    "Formation s'appuyant sur la recherche."),
+  pourcentage = c(5, 5, 0, 10, 55, 10, 15))
+activites %>% knitr::kable(
+  format = "latex", 
+  booktabs = TRUE, 
+  escape = FALSE,
+  col.names = c("Activités", " ")) %>% 
+  column_spec(1:2, width = c("37em", "2em")) %>%
+  row_spec(row = 0, bold = TRUE) %>%
+  add_footnote(c(
+    "\\textit{\\footnotesize pilotage de la recherche (VP, direction d'institut, DAS, par exemple), participation à des instances d’évaluation (CNU, CoNRS, CSS, Hcéres, par exemple), responsabilité de dispositifs Idex ou Isite, direction de projets (ANR, Horizon Europe, ERC, CPER, PIA, France 2030, par exemple), responsabilités éditoriales dans des revues ou collections nationales et internationales.}",
+    "\\textit{\\footnotesize pouvoirs publics aux niveaux européen, national et régional, entreprises, instances internationales comme FAO, OMS, etc.}",
+    "\\textit{\\footnotesize EUR, SFRI, etc.}",
+    "\\textit{\\footnotesize partage de connaissances avec le grand public, médiation scientifique, interface sciences et société.}"), notation = "number", escape = FALSE, threeparttable = TRUE) %>%
+  kable_styling(full_width = FALSE, latex_options = c("striped", "HOLD_position"))
+```
+
+\pagebreak

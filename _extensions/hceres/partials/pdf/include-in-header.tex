@@ -1,0 +1,41 @@
+\usepackage{tikz}
+\usepackage{xcolor}
+\usepackage{tabularx}
+%% incompatibility with bookdown... this allows us to use titlesec
+\let\paragraph\oldparagraph
+\let\subparagraph\oldsubparagraph
+\usepackage{titlesec}
+\usepackage{orcidlink}
+\usepackage{pdfpages}
+\usepackage{fancyhdr}
+\usepackage{float}
+\usepackage{bbding}
+
+%% Using Sans-Serif 
+\usepackage{fontenc}
+\setmainfont[ItalicFont={Fira Sans Light Italic},%
+        BoldFont={Fira Sans SemiBold},%
+        BoldItalicFont={Fira Sans Italic}]%
+        {FiraSans Light}%
+
+%%% Babel option
+\PassOptionsToPackage{french}{babel}
+
+%%% -----------------------------------------------
+%% FONTS - note that we are using LUALATEX
+\renewcommand*\oldstylenums[1]{{\firaoldstyle #1}}
+
+%%% -----------------------------------------------
+%%% HEADER AND FOOTER
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\fancyhead[L]{\parbox[b][1cm][t]{0.5\textwidth}{\footnotesize Dossier d’autoévaluation des unités de recherche}}
+\fancyhead[R]{\includegraphics [width=1.75cm]{logo_hceres.png}}
+\fancyfoot[L]{\scriptsize Campagne d’évaluation  2024-2025 – Vague E}
+\fancyfoot[C]{\scriptsize \hspace{3cm} Département d’évaluation de la recherche}
+\fancyfoot[R]{\scriptsize \thepage}
+\assignpagestyle{\chapter}{fancy}
+

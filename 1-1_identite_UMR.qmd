@@ -1,0 +1,39 @@
+## Identité de l'unité
+
+##### Nom de l'unité: {.unnumbered}
+
+Laboratoire de XXX
+
+##### Acronyme: {.unnumbered}
+
+UMR XXX
+
+##### Label et numéro: {.unnumbered}
+
+Codique 0XXX
+
+##### Domaine scientifique principal: {.unnumbered}
+
+\textcolor{hceres-blue}{ST}: Sciences et Technologies
+
+##### Panels scientifiques {.unnumbered} 
+
+- \textcolor{hceres-blue}{ST1}: Mathématique, \textcolor{hceres-blue}{ST1-2}: Mathématiques appliquées
+- \textcolor{hceres-blue}{ST6}: Sciences et Technologies de l'Information et de la Communication, \textcolor{hceres-blue}{ST6-1}: Informatique
+
+##### Équipe de direction {.unnumbered}
+
+- John \textsc{Doe} (IR tutelle 1): Directeur d'Unité
+- Jane \textsc{Doe} (DR tutelle 2): Directrice d'Unité Adjointe
+- Jake \textsc{Doe} (MC tutelle 7):  responsable de l'équipe 1
+- Jill \textsc{Doe} (PR tutelle 1):  responsable de l'équipe 2
+
+##### Liste des tutelles de l’unité de recherche {.unnumbered}
+
+- Tutelle 1 (Département de Mathématiques -- _Nom du département_)
+- Tutelle 2 (Département d'Informatique -- _Nom du département_)
+
+##### Écoles doctorales de rattachement {.unnumbered}
+
+- _École Doctorale de Mathématiques X_ (EDMX)
+- _École Doctorale d'Informatique X_ (EDIX)

@@ -1,0 +1,32 @@
+\chapter{Références bibliographiques}\label{bibliographie}
+
+Les références bibliographique sont données par type, avec une numérotation propre et une lettre pour préfixe facilitant le repérage (A: article de journal, C: acte de conférence, B: livre, I: chapitre d'ouvrage, T: mémoire de thèse de doctorat ou d'habilitation, S: logiciel et U: prépublication).
+
+\nocite{*}
+
+\defbibfilter{preprint}{
+  type=unpublished or
+  type=misc or
+  type=techreport
+}
+
+\newrefcontext[labelprefix=A]
+\printbibliography[type=article,notkeyword={external},title={Articles de journaux à comité de lecture},heading=subbibliography, resetnumbers=true]
+
+\newrefcontext[labelprefix=C]
+\printbibliography[type=inproceedings,notkeyword={external},title={Actes de conférences à comité de lecture},heading=subbibliography, resetnumbers=true]
+
+\newrefcontext[labelprefix=B]
+\printbibliography[type=book,notkeyword={external}, title={Livres}, heading=subbibliography, resetnumbers=true]
+
+\newrefcontext[labelprefix=I]
+\printbibliography[type=incollection,notkeyword={external},title={Chapitres de livre}, heading=subbibliography, resetnumbers=true]
+
+\newrefcontext[labelprefix=T]
+\printbibliography[type=thesis,notkeyword={external},title={Mémoires de thèses de doctorat et d'habiliation}, heading=subbibliography, resetnumbers=true]
+
+\newrefcontext[labelprefix=S]
+\printbibliography[type=softwareversion,notkeyword={external},title={Codes et Logiciels}, heading=subbibliography, resetnumbers=true]
+
+\newrefcontext[labelprefix=U]
+\printbibliography[filter=preprint,notkeyword={external},title={Prépublications, rapports techniques, poster}, heading=subbibliography, resetnumbers=true]

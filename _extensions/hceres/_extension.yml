@@ -1,0 +1,67 @@
+title: HCERES 2024 Format Template
+author: UMR MIA Paris-Saclay
+version: 0.1.1
+contributes:
+  formats:
+    common:
+      # define below YAML configuration common to all formats
+      filters:
+        # You can include here Lua filters from your extension format
+        - color-text.lua
+        - list-table.lua
+        - not-in-format.lua
+      shortcodes:
+        # You can include here Lua filters defining shortcodes from your extension
+        - shortcodes.lua
+      knitr:
+        opts_chunk:
+          echo: true
+      number-sections: true
+      # toc: true
+      # toc-title: Contents
+      # toc-depth: 2
+      documentclass: book
+      classoption: oneside
+      code-copy: true
+      code-block-background: true
+      date-format: long
+      callout-icon: false
+      fig-cap-location: bottom
+      tbl-cap-location: bottom
+    pdf:
+      toc: true
+      pdf-engine: lualatex
+      latex-max-runs: 3
+      papersize: a4
+      geometry: 
+        - a4paper
+        - headsep=.5cm
+        - headheight=2cm
+        - bottom=2.5cm
+        - foot=1cm
+        - left=3cm
+        - right=3cm
+      fontfamily: FiraSans
+      fontsize: 9pt
+      monofont: FiraMono
+      monofontoptions:
+        - Scale=0.92
+      highlight-style: github
+      linkcolor: hceres-blue
+      urlcolor: hceres-red
+      include-in-header:
+        - "partials/pdf/include-in-header.tex"
+      template-partials:
+        - "partials/pdf/before-body.tex"
+        - "partials/pdf/toc.tex"
+        - "partials/pdf/biblio.tex"
+      format-resources:
+        - logo_miaps.pdf
+        - page_garde_hceres.pdf
+        - logo_hceres.png
+      cite-method: biblatex
+      biblatexoptions: 
+        - style=numeric-comp
+        - sorting=none
+        - defernumbers=true
+

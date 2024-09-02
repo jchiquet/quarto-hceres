@@ -1,0 +1,21 @@
+## Présentation de l'unité  {#sec-presentation}
+
+### Historique, localisation de l'unité {.unnumbered}
+
+### Équipes, plateformes, services communs, etc {.unnumbered}
+
+<!-- ```{mermaid timeline}
+%%| fig-width: 5.5
+%%| fig-align: center
+timeline
+    section Époque 1
+        2018 : Direction Jane Doe (DU) : Visite HCERES
+        2020 : Direction Jane Doe (DU) & J. Chiquet (DUA) : Fusion des équipes
+        2021 : Csission des équipe
+    section Époque 2
+        2022 : Direction John Doe (DU) :  Déménagement à Palaiseau
+        2024 : Autoévaluation HCERES
+``` -->
+
+### Effectifs de l'unité et de ses équipes au 31/12/2023
+
