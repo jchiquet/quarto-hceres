@@ -16,8 +16,8 @@
 *.bbl
 
 /.luarc.json
-logo_hceres.png
-page_garde_hceres.pdf
-dae-hceres.pdf
+/logo_hceres.png
+/page_garde_hceres.pdf
+/dae-hceres.pdf
 
 /.quarto/
