@@ -5,7 +5,7 @@
 
 knitr::opts_chunk$set(message = FALSE, warning = FALSE)
 
-library(tidyverse)
+library(dplyr)
 library(kableExtra)
 
 miaps_palette <- 
@@ -19,6 +19,7 @@ miaps_palette <-
 ```
 
 ```{r preliminaires-rh, include = FALSE, echo = FALSE, message=FALSE, warning=FALSE, results='hide', eval = FALSE}
+library(tidyverse)
 library(scales)
 library(viridis)
 theme_set(theme_bw())
