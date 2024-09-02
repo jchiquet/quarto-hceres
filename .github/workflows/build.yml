@@ -37,7 +37,7 @@ jobs:
     
       - name: Additional R dependencies
         run: |
-          Rscript -e "install.packages(c('tidyverse', 'kableExtra', 'knitr', 'rmarkdown'))"
+          Rscript -e "install.packages(c('dplyr', 'kableExtra', 'knitr', 'rmarkdown'))"
 
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
