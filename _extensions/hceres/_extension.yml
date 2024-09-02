@@ -56,7 +56,6 @@ contributes:
         - "partials/pdf/toc.tex"
         - "partials/pdf/biblio.tex"
       format-resources:
-        - logo_miaps.pdf
         - page_garde_hceres.pdf
         - logo_hceres.png
       cite-method: biblatex
