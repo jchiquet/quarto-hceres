@@ -1,33 +1,49 @@
-### Domaine 2. Attractivité 
+### Domaine 2. Les résultats, le rayonnement et l'attractivité scientifiques de l'unité
 
-Ce domaine se décline en quatre références qui portent respectivement sur le rayonnement scientifique des membres de l'unité, sur la qualité de sa politique d'encadrement et d'accueil en lien avec les écoles doctorales, sur sa capacité à obtenir des financements (appels à projets compétitifs), et sur la qualité de ses équipements et de leur gestion.
+Ce domaine se décline en quatre références qui portent essentiellement sur les réalisations scientifiques de l’unité et leur traduction dans une production scientifique qui ne sacrifie pas la qualité à la quantité.
 
-#### Référence 1. L'unité est attractive par son rayonnement scientifique et s'insère dans l'espace européen de la recherche {.unnumbered} 
+#### Référence 1. L’unité est reconnue pour ses réalisations scientifiques qui satisfont à des critères de qualité {.unnumbered}
 
-L'unité expose les actions qu'elle met en œuvre pour développer son rayonnement scientifique. Elle illustre ses résultats en la matière par des faits marquants : invitations des membres de l'unité dans des congrès, organisation de manifestations scientifiques, responsabilités éditoriales, participations à des instances de pilotage de la recherche, membres d'institutions, lauréats de prix, etc. 
+L’unité de recherche est invitée à présenter les thématiques de recherche qu’elle a abordées au cours de la période de référence, en les situant dans le contexte international. L’unité analyse ses réalisations scientifiques. Elle s’appuie en particulier sur le portfolio pour montrer en quoi celles-ci reposent sur des fondements théoriques et méthodologiques solides, qu’elles sont originales, qu’elles présentent un apport à la connaissance, qu’elles traduisent un positionnement national et international de ses recherches et qu’elles répondent à des enjeux scientifiques, technologiques, culturels, économiques ou sociétaux.
 
-#### Référence 2. L'unité est attractive par la qualité de sa politique d'accompagnement des personnels {.unnumbered} 
+L’unité de recherche s’appuiera sur les faits marquants qu’elle considère comme des avancées scientifiques remarquables. Ces faits scientifiques marquants (découvertes, inventions, avancées méthodologiques, nouveaux concepts, ruptures, etc.) seront détaillés et ils pourront faire l’objet d’un développement substantiel.
 
-L'unité présente sa politique d'accueil des nouveaux personnels. Elle mentionne les modalités d'accueil et d'intégration au sein des recherches de l'unité des chercheurs aussi bien débutants (de niveaux doctorat et post-doctorat) que confirmés (EC et C). Elle présente les résultats de cette politique. Elle expose l'accompagnement mis en place pour les personnels d'appui à la recherche. 
+L’unité décrit sa politique en matière de réponse à des appels à projets aussi bien internationaux que nationaux et locaux. Elle en présente les résultats.
 
-L'unité souligne sa capacité à accueillir des chercheurs invités.
+L’unité expose son implication, à différents niveaux, dans des dispositifs et des projets financés par les programmes d’investissements nationaux (PIA, CPER, par exemple), et les bénéfices qu’elle en retire.
 
-L'unité décrit la mise en œuvre de la stratégie de ses tutelles en matière d'intégrité scientifique et de science ouverte.
+L’unité illustre le rayonnement de ses travaux par des indices de reconnaissance : membres d’institutions, lauréats de prix, distinctions, etc.
 
-#### Référence 3. L'unité est attractive par la reconnaissance de ses succès à des appels à projets compétitifs {.unnumbered} 
 
-L'unité décrit sa politique en matière de réponse à des appels à projets aussi bien internationaux que nationaux et locaux. Elle en présente les résultats.
+#### Référence 2. Les activités de recherche de l’unité donnent lieu à une production scientifique de qualité {.unnumbered}
 
-Elle mentionne comment elle finance sur ses ressources propres des contrats doctoraux et post-doctoraux, des contrats d'ingénieur et de technicien, des chaires, des équipements. 
+L’unité montre qu’elle ne sacrifie pas la qualité à la quantité et présente sa stratégie de diffusion des connaissances. Elle analyse la qualité et la diversité des supports et des conférences choisis pour la diffusion de ses résultats.
 
-L'unité expose son implication, à différents niveaux, dans des dispositifs et des projets financés par les programmes d'investissements nationaux (PIA, CPER, par exemple), et les bénéfices qu'elle en retire. 
+Elle mentionne les dispositifs mis en œuvre pour accompagner les personnels chercheurs débutants dans leur activité de diffusion des connaissances.
 
-#### Référence 4. L'unité est attractive par la qualité de ses équipements et de ses compétences techniques {.unnumbered} 
+Elle analyse les éventuels déséquilibres de production entre ses différentes équipes et elle décrit les moyens mis en place pour accompagner les personnels les moins actifs en la matière.
 
-L'unité indique l'ensemble de ses plateformes, de ses équipements, de ses démonstrateurs de pointe. Elle détaille sa stratégie de développement, de maintenance et de jouvence ainsi que d'ouverture à des tiers, de ses dispositifs. Elle explicite comment elle accède aux outils mis en place par ses tutelles pour acquérir et entretenir les équipements lourds. 
+Elle souligne l’apport des personnels d’appui à la recherche.
 
-Elle décrit et analyse la constitution de l'équipe technique et administrative engagée dans la gestion de ces équipements. 
+#### Référence 3. L’unité participe à l’animation et au pilotage de sa communauté {.unnumbered}
 
-#### Synthèse de l'autoévaluation {.unnumbered} 
+L’unité précise les manifestations scientifiques qu’elle a organisées et précise son implication.
 
-L'unité évalue ses forces et faiblesses au regard des références de ce domaine d'évaluation.
+Elle indique si elle exerce des responsabilités éditoriales dans des revues ou des collections d’ouvrages reconnues internationalement.
+
+L’unité montre comment elle s’implique dans des réseaux, des instances de pilotage de la recherche ou d’expertise scientifique à l’échelle internationale, européenne ou nationale.
+
+L’unité décrit sa politique d’invitation des personnalités scientifiques.
+
+
+#### Référence 4. La production scientifique de l’unité respecte les principes de l’intégrité scientifique, de l’éthique et de la science ouverte. Elle est conforme aux directives applicables dans ce domaine {.unnumbered}
+
+L’unité précise les moyens mis en œuvre pour garantir la traçabilité et, le cas échéant, la reproductibilité de ses résultats (carnets de laboratoires, logiciels anti-plagiat, procédures internes d’examen – dont de relecture – par les pairs, procédures d’archivage des données et des codes sources, etc.).
+
+L’unité décrit la mise en œuvre de la stratégie de ses tutelles en matière d’intégrité scientifique et de science ouverte.
+
+Elle décrit les moyens par lesquels elle accompagne ses personnels dans le choix de supports appropriés de diffusion (pour éviter, par exemple, les conférences et revues dites « prédatrices ») et pour une juste prise en compte des contributions (en particulier dans les co-signatures).
+
+L’unité indique les dispositions mises en place pour que sa production scientifique soit le résultat de recherches respectant la personne humaine, la vie animale.
+
+L’unité définit sa politique en matière de science ouverte.

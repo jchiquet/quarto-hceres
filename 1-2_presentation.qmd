@@ -2,6 +2,8 @@
 
 ### Historique, localisation de l'unité {.unnumbered}
 
+### Organisation de l'unité  {.unnumbered}
+
 ### Équipes, plateformes, services communs, etc {.unnumbered}
 
 <!-- ```{mermaid timeline}
@@ -17,5 +19,9 @@ timeline
         2024 : Autoévaluation HCERES
 ``` -->
 
-### Effectifs de l'unité et de ses équipes au 31/12/2023
+### Effectif de l'unité et de ses éventuelles équipes au 31/12/2024  {.unnumbered}
 
+
+### Thématiques scientifiques (par équipe le cas échéant) {.unnumbered}
+
+Les nommer et les présenter succintement. Elles seront détaillées dans le domaine 2.

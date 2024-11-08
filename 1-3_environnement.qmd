@@ -1,0 +1,11 @@
+## Environnement de recherche
+
+L’unité présente de façon synthétique les structures de recherche et de valorisation dans lesquelles elle est impliquée, à l’échelle de l’établissement ou du site :
+
+- liens avec des fédérations de recherche, des plateformes, une MSH, un OSU, etc. ;
+- contribution à un champ de recherche (campus, institut, pôle, secteur...) et description de celui-ci ;
+- implication dans le continuum entre laboratoire de recherche et structures de soins ;
+- implication dans un dispositif créé par le PIA du type Idex, Isite, Labex, Équipex, PEPR, EUR, IHU, etc. ;
+- inscription dans des clusters régionaux ;
+- participation à des structures de valorisation, de transfert et de recherche partenariale (incubateurs, SATT, IRT, ITE, instituts Carnot, etc.) ;
+- ...

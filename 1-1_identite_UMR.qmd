@@ -16,12 +16,14 @@ Codique 0XXX
 
 \textcolor{hceres-blue}{ST}: Sciences et Technologies
 
-##### Panels scientifiques {.unnumbered} 
+##### Panels scientifiques par ordre décroissant de pertinence: {.unnumbered}
 
 - \textcolor{hceres-blue}{ST1}: Mathématique, \textcolor{hceres-blue}{ST1-2}: Mathématiques appliquées
 - \textcolor{hceres-blue}{ST6}: Sciences et Technologies de l'Information et de la Communication, \textcolor{hceres-blue}{ST6-1}: Informatique
 
-##### Équipe de direction {.unnumbered}
+##### Équipe de direction: {.unnumbered}
+
+*Préciser le rôle de chaque membre de l'équipe de direction*
 
 - John \textsc{Doe} (IR tutelle 1): Directeur d'Unité
 - Jane \textsc{Doe} (DR tutelle 2): Directrice d'Unité Adjointe
