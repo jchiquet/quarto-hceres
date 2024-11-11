@@ -1,29 +1,35 @@
-### Domaine 1. Profil, ressources et organisation de l'unité 
+### Domaine 1. Objectifs scientifiques, organisation et ressources de l'unité
 
-Ce domaine se décline en trois références : adéquation de la politique de recherche mise en œuvre par l'unité à son potentiel humain ; moyens financiers et logistiques mobilisés ; pratiques responsables en matière de ressources humaines, de sécurité, et d'environnement.
 
-#### Référence 1. L'unité s'est assigné des objectifs scientifiques pertinents {.unnumbered} 
 
-L'unité exprime sa vision de son environnement de recherche et de ses acteurs. Elle montre en particulier comment elle tient compte de la politique de ses tutelles en matière de recherche et de valorisation. Elle décrit sa stratégie scientifique et présente comment elle associe l'ensemble de ses personnels à l'élaboration de sa politique de recherche et de valorisation.
+Ce domaine se décline en quatre références : objectifs scientifiques et organisation ; ressources de l’unité ; infrastructures et équipements ; pratiques responsables en matière de ressources humaines, de sécurité, et d’environnement.
 
-L'unité analyse les impacts scientifiques, économiques, culturels et sociétaux de la politique qu'elle conduit et elle décrit comment elle les prend en considération.
+
+#### Référence 1. L'unité s'est assigné des objectifs scientifiques pertinents et elle s'organise en conséquence {.unnumbered}
+
+L’unité exprime sa vision de son environnement de recherche et de ses acteurs. Elle présente comment elle s’intègre dans cet environnement. Elle montre en particulier comment elle tient compte de la politique de ses tutelles en matière de recherche et de valorisation. Elle décrit sa stratégie scientifique et présente comment elle associe l’ensemble de ses personnels à l’élaboration de sa politique de recherche et de valorisation.
+L’unité montre comment son organisation lui permet de soutenir ses objectifs scientifiques.
 
 #### Référence 2. L'unité dispose de ressources adaptées à son profil d'activités et à son environnement de recherche et les mobilise {.unnumbered} 
 
-L'unité présente les ressources financières dont elle dispose de façon récurrente et celles qu'elle est capable de mobiliser, au-delà de la dotation allouée par ses tutelles. Elle décrit sa politique de mutualisation d'une partie de ses ressources pour favoriser l'émergence de thématiques novatrices et pour soutenir des activités collectives de recherche.
+L’unité présente les ressources financières dont elle dispose de façon récurrente et celles qu’elle est capable de mobiliser, au-delà de la dotation allouée par ses tutelles. Elle décrit sa politique de mutualisation d’une partie de ses ressources pour favoriser l’émergence de thématiques novatrices et pour soutenir des activités collectives de recherche.
 
-L'unité expose sa politique en matière de locaux et d'infrastructures scientifiques ou de ressources documentaires. Elle montre comment celle-ci est adaptée à ses objectifs scientifiques.
+L’unité présente sa politique d’accueil des nouveaux personnels. Elle mentionne les modalités d’accueil et d’intégration au sein des recherches de l’unité des chercheurs aussi bien débutants (de niveaux doctorat et post-doctorat) que confirmés (enseignants-chercheurs et chercheurs). Elle présente les résultats de cette politique. Elle décrit en particulier sa politique de recrutement des doctorants, sa capacité à trouver des financements de thèses et à constituer un vivier grâce à son implication dans des masters et grâce à son rayonnement national et international.
 
-#### Référence 3. Les pratiques de l'unité sont conformes aux règles et aux directives définies par ses tutelles en matière de gestion des ressources humaines, de sécurité, d'environnement, de protocoles éthiques et de protection des données ainsi que du patrimoine scientifique {.unnumbered} 
+Elle expose l’accompagnement mis en place pour les personnels d’appui à la recherche.
 
-L'unité définit sa politique de ressources humaines. Elle décrit en particulier de quelle manière sa gestion des ressources humaines est respectueuse de la parité et non discriminatoire en matière de formation, de mobilité interne et d'évolution des carrières de ses personnels. Elle montre qu'elle est attentive aux conditions de travail de ses personnels, à leur santé, à leur sécurité et à la prévention des risques psycho-sociaux. En particulier, elle précise les mesures prises en matière de lutte contre les violences sexistes et sexuelles, et contre les discriminations.
+#### Référence 3. L'unité dispose de locaux, d'équipements et de compétences techniques adaptés à sa politique scientifique et à ses objets de recherche.
+
+L’unité expose sa politique en matière de locaux et d’infrastructures scientifiques ou de ressources documentaires. Elle montre comment celle-ci est adaptée à ses objectifs scientifiques.
+
+L’unité indique l’ensemble des plateformes, des équipements, des démonstrateurs de pointe à sa disposition. Elle détaille sa stratégie de développement, de maintenance et de jouvence ainsi que d’ouverture à des tiers, de ses dispositifs. Elle explicite comment elle accède aux outils mis en place par ses tutelles pour acquérir et entretenir les équipements lourds.
+
+Elle décrit et analyse la constitution de l’équipe technique et administrative engagée dans la gestion de ces équipements.
+
+#### Référence 4. Les pratiques de l'unité sont conformes aux règles et aux directives définies par ses tutelles en matière de gestion des ressources humaines, de sécurité, d'environnement, et de protection des données ainsi que du patrimoine scientifique {.unnumbered}
+
+L’unité définit sa politique de ressources humaines. Elle décrit en particulier de quelle manière sa gestion des ressources humaines est respectueuse de la parité et non discriminatoire en matière de formation, de mobilité interne et d’évolution des carrières de ses personnels. Elle montre qu’elle est attentive aux conditions de travail de ses personnels, à leur santé, à leur sécurité et à la prévention des risques psycho-sociaux. En particulier, elle précise les mesures prises en matière de lutte contre les violences sexistes et sexuelles, et contre les discriminations.
 
 L'unité décrit toutes les procédures mises en place pour protéger son patrimoine scientifique et ses systèmes informatiques.
 
-L'unité indique les dispositions qu'elle applique pour prévenir les risques environnementaux résultant de son activité et pour poursuivre des objectifs de développement durable. L'unité précise si elle est dotée d'une charte de développement durable inscrite dans son règlement intérieur. En particulier, elle montre comment elle prend en compte les critères de développement durable dans la définition des actions de recherche et des expérimentations. Elle détaille sa politique en matière de gestion des missions et des déplacements des personnels, et de gestion des déchets, des consommables et des rebuts. Elle décrit les mesures de sensibilisation mises en place pour les étudiants accueillis. Elle indique comment elle évalue ses bonnes pratiques en matière d'empreinte environnementale.
-
-L'unité décrit son plan de continuité d'activité et comment elle anticipe des situations d'urgence.
-
-#### Synthèse de l'autoévaluation {.unnumbered} 
-
-L'unité évalue ses forces et faiblesses au regard des références de ce domaine d'évaluation.
+L’unité indique les dispositions qu’elle applique pour prévenir les risques environnementaux résultant de son activité et pour poursuivre des objectifs de développement durable. L’unité précise si elle est dotée d’une charte de développement durable inscrite dans son règlement intérieur. En particulier, elle montre comment elle prend en compte les critères de développement durable dans la définition des actions de recherche et des expérimentations. Elle présente sa politique en matière de gestion des missions et des déplacements des personnels, ainsi qu’en matière de gestion des déchets, des investissements et des consommables. Elle décrit les mesures de sensibilisation mises en place pour les étudiants accueillis. Elle indique comment elle évalue ses bonnes pratiques en matière d’empreinte environnementale.
