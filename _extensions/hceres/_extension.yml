@@ -60,7 +60,12 @@ contributes:
         - logo_hceres.png
       cite-method: biblatex
       biblatexoptions: 
-        - style=numeric-comp
-        - sorting=none
+        - style=numeric
+        - sorting=ydnt
+        - sortcites=true
         - defernumbers=true
+        - maxcitenames=2
+        - maxbibnames=1000
+        - language=english
+        - hyperref=true
 
