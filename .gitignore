@@ -21,3 +21,5 @@
 /dae-hceres.pdf
 
 /.quarto/
+
+**/*.quarto_ipynb
